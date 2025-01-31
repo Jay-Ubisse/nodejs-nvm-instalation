@@ -44,3 +44,7 @@ Para verificar qual versão do Node.js está atualmente em uso:
 node -v
 ```
 
+---
+
+Produzido com ❤️ por [Jay-Ubisse](https://github.com/Jay-Ubisse/).
+
